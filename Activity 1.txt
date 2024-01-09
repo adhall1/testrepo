@@ -1,0 +1,23 @@
+start
+	declarations
+		string cheese
+		string bread
+		string butter
+		string pan
+		string knife
+		string burner
+
+		output "take out 2 slices of bread, 2 slices of cheese, butter, knife, and pan" // prompt user to get out 2 slices of bread, 2 slices of cheese, and butter
+		output "unwrap the slices of cheese" // prompt user to unwrap cheese
+		output "place cheese on to one slice of bread" // prompt user to place cheese on bread
+		output "place slices of bread together" // prompt user to place slices of bread together
+		output "use knife to slice a piece of butter" // prompt user to slice butter with knife
+		output "place pan on burner" // prompt user to place pan on burner
+		output "turn on burner"// prompt user to turn on burner
+		output "melt butter in pan" // prompt user to melt butter in pan
+		output "place sandwich into pan" // prompt user to place sandwich in pan
+		output "toast one side of sandwich" // prompt user to toast one side of sandwich
+		output "toast other side of sandwich" // prompt user to toast other side of sandwich
+		output "take sandwich out of pan" // prompt user to take sandwich out of pan
+		output "eat sandwich" // prompt user to eat sandwich
+stop
